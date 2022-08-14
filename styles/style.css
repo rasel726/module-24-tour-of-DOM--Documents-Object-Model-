@@ -3,5 +3,13 @@ h1 {
 }
 
 li {
-    color: yellowgreen;
+    color: lightsalmon;
+}
+
+#fruits-title {
+    color: black;
+}
+
+.important-places{
+    color: blueviolet;
 }
