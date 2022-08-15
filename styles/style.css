@@ -2,14 +2,14 @@ h1 {
     color: lightcoral;
 }
 
-.fruits-container li{
-    color: tomato;
+.yellow-bg{
+    text-align: center;
 }
 
-#fruits-title {
-    color: black;
+.large-text{
+    font-size: 2em;
 }
 
-.important-places{
-    color: blueviolet;
+.text-center{
+    text-align: center;
 }
