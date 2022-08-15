@@ -2,8 +2,8 @@ h1 {
     color: lightcoral;
 }
 
-li {
-    color: lightsalmon;
+.fruits-container li{
+    color: tomato;
 }
 
 #fruits-title {
